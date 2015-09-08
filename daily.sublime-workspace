@@ -11,7 +11,7 @@
 			"file": "furikaeri.md",
 			"settings":
 			{
-				"buffer_size": 159,
+				"buffer_size": 356,
 				"line_ending": "Windows",
 				"name": "#　振り返り"
 			}
@@ -25,16 +25,16 @@
 	"command_palette":
 	{
 		"height": 392.0,
-		"last_filter": "ma",
+		"last_filter": "inst",
 		"selected_items":
 		[
 			[
-				"ma",
-				"Markdown Preview: Preview in Browser"
-			],
-			[
 				"inst",
 				"Package Control: Install Package"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
 			],
 			[
 				"list",
@@ -71,6 +71,8 @@
 	],
 	"file_history":
 	[
+		"/C/Users/HA/AppData/Roaming/Sublime Text 3/Packages/User/trailing_spaces.sublime-settings",
+		"/C/Users/HA/Documents/daily/Package Control Messages",
 		"/C/Users/HA/Documents/tutorial/sample.md",
 		"/C/Users/HA/Documents/tutorial3/sample.md",
 		"/C/Users/HA/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
@@ -125,15 +127,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 159,
+						"buffer_size": 356,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								159,
-								159
+								237,
+								237
 							]
 						],
 						"settings":
@@ -147,21 +149,16 @@
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
@@ -187,6 +184,11 @@
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
@@ -198,6 +200,7 @@
 								"bh_regex_close",
 								"bh_regex_content"
 							],
+							"origin_encoding": "UTF-8",
 							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
