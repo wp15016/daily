@@ -11,7 +11,7 @@
 			"file": "furikaeri.md",
 			"settings":
 			{
-				"buffer_size": 2931,
+				"buffer_size": 3089,
 				"line_ending": "Windows",
 				"name": "#　振り返り"
 			}
@@ -127,15 +127,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2931,
+						"buffer_size": 3089,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								15,
-								15
+								164,
+								164
 							]
 						],
 						"settings":
