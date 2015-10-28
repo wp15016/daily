@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"p",
+				"price"
+			],
+			[
+				"t",
+				"tsyats"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"co",
+				"colors"
+			],
+			[
 				"d",
 				"document"
 			],
@@ -60,10 +76,10 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/HA/Documents/jssample/0703/stemplate1.html",
+			"file": "/C/Users/HA/Documents/jssample/07nizigen/stemplate1.html",
 			"settings":
 			{
-				"buffer_size": 1188,
+				"buffer_size": 3976,
 				"line_ending": "Windows"
 			}
 		},
@@ -71,7 +87,7 @@
 			"file": "furikaeri.md",
 			"settings":
 			{
-				"buffer_size": 4571,
+				"buffer_size": 4704,
 				"line_ending": "Windows"
 			}
 		}
@@ -130,11 +146,12 @@
 	],
 	"file_history":
 	[
+		"/C/Users/HA/Documents/jssample/0703/stemplate1.html",
+		"/C/Users/HA/Documents/daily/furikaeri.md",
 		"/C/Users/HA/Documents/jssample/0702/stemplate1.html",
 		"/C/Users/HA/Documents/jssample/0701/stemplate1.html",
 		"/C/Users/HA/Documents/jssample/0605/stemplate1.html",
 		"/C/Users/HA/Documents/jssample/0604/stemplate1.html",
-		"/C/Users/HA/Documents/daily/furikaeri.md",
 		"/C/Users/HA/Documents/jssample/新しいフォルダー/stemplate1.html",
 		"/C/Users/HA/Documents/jssample/0602/stemplate1.html",
 		"/C/Users/HA/Documents/jssample/0501/stemplate1.html",
@@ -161,7 +178,7 @@
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 30.0
 	},
 	"find_in_files":
 	{
@@ -175,6 +192,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"){\n",
 			"d"
 		],
 		"highlight": true,
@@ -198,19 +216,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/HA/Documents/jssample/0703/stemplate1.html",
+					"file": "/C/Users/HA/Documents/jssample/07nizigen/stemplate1.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1188,
+						"buffer_size": 3976,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1124,
-								1124
+								3841,
+								3841
 							]
 						],
 						"settings":
@@ -218,68 +236,68 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
-								"bh_square_content"
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
 							],
 							"origin_encoding": "UTF-8",
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 858.0,
+						"translation.y": 2935.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -291,15 +309,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4571,
+						"buffer_size": 4704,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								117,
-								117
+								130,
+								130
 							]
 						],
 						"settings":
@@ -307,61 +325,61 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
-								"bh_square_content"
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
 							],
 							"origin_encoding": "UTF-8",
 							"parser": null,
@@ -380,7 +398,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 30.0
 	},
 	"input":
 	{
@@ -425,7 +443,7 @@
 	"project": "daily.sublime-project",
 	"replace":
 	{
-		"height": 52.0
+		"height": 56.0
 	},
 	"save_all_on_build": true,
 	"select_file":
